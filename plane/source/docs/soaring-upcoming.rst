@@ -159,7 +159,7 @@ Airspeed Management (Optional)
 
 It is also possible to let soaring control the airspeed in certain situations.
 
-In THERMAL mode, the parameter :ref:`SOAR_THML_ARSPD<SOAR_THML_ARSPD>` set the target airspeed in metres per second.
+In THERMAL mode, the parameter :ref:`SOAR_THML_ARSPD<SOAR_THML_ARSPD>` sets the target airspeed in metres per second.
 
 In AUTO, FBWB and CRUISE modes, the parameter :ref:`SOAR_CRSE_ARSPD<SOAR_CRSE_ARSPD>` controls the target airspeed when the aircraft is gliding.
 
